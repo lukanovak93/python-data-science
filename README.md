@@ -59,12 +59,11 @@ List of useful Python packages for data science:
 - [jupytext](https://github.com/mwouts/jupytext) - edit notebooks as text files
 
 ### database related
-pyodbc
-turbodbc
-ipython-sql
-db.py (dead project?)
-sqlalchemy
-sqlalchemy-turbodbc
+- [pyodbc](https://github.com/mkleehammer/pyodbc)
+- [turbodbc](https://turbodbc.readthedocs.io/en/latest/)
+- [ipython-sql](https://github.com/catherinedevlin/ipython-sql)
+- [sqlalchemy](https://www.sqlalchemy.org/)
+- [sqlalchemy-turbodbc](https://github.com/dirkjonker/sqlalchemy-turbodbc)
 
 ### ETL or data engineering related sorted from lightest to heaviest framework
 - [papermill + scrapbook](https://github.com/nteract/papermill) - parameterized notebooks
@@ -75,8 +74,8 @@ sqlalchemy-turbodbc
 - [botflow](https://github.com/kkyon/botflow)
 - [mara data integration](https://github.com/mara/data-integration)
 - [dbt](https://www.getdbt.com/)
-- Spotify [Luigi](https://github.com/spotify/luigi) - works with Windows
-- Apache [Airflow](https://airflow.apache.org/) - Windows not supported
+- [Luigi](https://github.com/spotify/luigi) from Spotify - works with Windows
+- [Apache Airflow](https://airflow.apache.org/) - Windows not supported
 
 ### Data validation and cleaning frameworks
 - [cerberus](https://github.com/pyeve/cerberus)
@@ -88,15 +87,15 @@ sqlalchemy-turbodbc
 - [engarde](https://github.com/TomAugspurger/engarde)
 
 ### Machine Learning Related - mostly for tabular data or non-NN
-scikit-learn
-sklearn-pandas
-imbalanced-learn
-hyperopt-sklearn: https://github.com/hyperopt/hyperopt-sklearn # Not pip installable yet
-tpot
-xgboost
-lightgbm
-fastText
-https://github.com/kvh/recurrent  - extract datetimes from English sentence
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [sklearn-pandas](https://github.com/scikit-learn-contrib/sklearn-pandas)
+- [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn)
+- [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - not pip installable yet
+- [tpot](https://github.com/EpistasisLab/tpot)
+- [xgboost](https://xgboost.readthedocs.io/en/latest/)
+- [lightgbm](https://github.com/Microsoft/LightGBM)
+- [DMTK](http://www.dmtk.io/) - Microsoft Distributed Machine Learning Toolkit
+- [fastText](https://fasttext.cc/)
 
 ### Webscraping
 beautifulsoup4
