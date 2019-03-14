@@ -52,13 +52,11 @@ List of useful Python packages for data science:
 - [adjustText](https://github.com/Phlya/adjustText) - add non-overlapping annotated text
 
 ### Jupyter Notebook Related
-ipysheet: https://github.com/QuantStack/ipysheet
-ipypivot: https://github.com/PierreMarion23/ipypivot
-papermill + scrapbook: https://github.com/nteract/papermill (parameterized notebooks)
-nteract-scapbook: https://github.com/nteract/scrapbook
-how to pass a dataframe between notebooks: https://github.com/nteract/papermill/issues/215
-but instead, you should really save the dataframe somewhere and then just pass the path of the saved dataframe
-jupytext: edit notebooks as text files!  https://github.com/mwouts/jupytext
+- [ipysheet](https://github.com/QuantStack/ipysheet)
+- [ipypivot](https://github.com/PierreMarion23/ipypivot)
+- [papermill + scrapbook](https://github.com/nteract/papermill) - parameterized notebooks
+- [nteract-scapbook](https://github.com/nteract/scrapbook) - for passing data between notebooks
+- [jupytext](https://github.com/mwouts/jupytext) - edit notebooks as text files
 
 ### database related
 pyodbc
@@ -69,26 +67,25 @@ sqlalchemy
 sqlalchemy-turbodbc
 
 ### ETL or data engineering related sorted from lightest to heaviest framework
-papermill + scrapbook: https://github.com/nteract/papermill (parameterized notebooks)
-nteract-scapbook: https://github.com/nteract/scrapbook (for passing data between notebooks)
-dequindre: https://github.com/vogt4nick/dequindre
-petl: https://github.com/petl-developers/petl
-bonobo
-pypeln: https://github.com/cgarciae/pypeln/
-botflow: https://github.com/kkyon/botflow
-https://github.com/mara/data-integration
-dbt: https://www.getdbt.com/
-Spotify Luigi - (works with Windows)
-Apache Airflow - Windows not supported (it is a PITA to try to install on Windows)
+- [papermill + scrapbook](https://github.com/nteract/papermill) - parameterized notebooks
+- [dequindre](https://github.com/vogt4nick/dequindre)
+- [petl](https://github.com/petl-developers/petl)
+- [bonobo](https://www.bonobo-project.org/)
+- [pypeln](https://github.com/cgarciae/pypeln/)
+- [botflow](https://github.com/kkyon/botflow)
+- [mara data integration](https://github.com/mara/data-integration)
+- [dbt](https://www.getdbt.com/)
+- Spotify [Luigi](https://github.com/spotify/luigi) - works with Windows
+- Apache [Airflow](https://airflow.apache.org/) - Windows not supported
 
 ### Data validation and cleaning frameworks
-https://github.com/pyeve/cerberus
-https://github.com/great-expectations/great_expectations
-https://github.com/cosmicBboy/pandera
-https://pyjanitor.readthedocs.io/
-https://github.com/keleshev/schema
-https://github.com/TMiguelT/PandasSchema
-https://github.com/TomAugspurger/engarde
+- [cerberus](https://github.com/pyeve/cerberus)
+- [great_expectations](https://github.com/great-expectations/great_expectations)
+- [pandera](https://github.com/cosmicBboy/pandera)
+- [pyjanitor](https://pyjanitor.readthedocs.io/)
+- [schema](https://github.com/keleshev/schema)
+- [PandasSchema](https://github.com/TMiguelT/PandasSchema)
+- [engarde](https://github.com/TomAugspurger/engarde)
 
 ### Machine Learning Related - mostly for tabular data or non-NN
 scikit-learn
