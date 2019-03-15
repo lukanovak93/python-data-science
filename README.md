@@ -97,6 +97,9 @@ List of useful Python packages for data science:
 - [DMTK](http://www.dmtk.io/) - Microsoft Distributed Machine Learning Toolkit
 - [fastText](https://fasttext.cc/)
 
+### Deep learning
+- [Netron](https://github.com/lutzroeder/Netron) - visualize NNs
+
 ### Webscraping
 - [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [mechanicalsoup](https://mechanicalsoup.readthedocs.io/en/stable/)
