@@ -98,55 +98,50 @@ List of useful Python packages for data science:
 - [fastText](https://fasttext.cc/)
 
 ### Webscraping
-beautifulsoup4
-mechanicalsoup
-selenium (headless-browser framework for extracting javascript data)
-scrapy (OOP framework)
-newspaper3k: https://newspaper.readthedocs.io  # easily extract text from articles
-requests-html: requests-html: https://github.com/kennethreitz/requests-html
+- [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [mechanicalsoup](https://mechanicalsoup.readthedocs.io/en/stable/)
+- [selenium](https://www.seleniumhq.org/) - headless-browser framework for extracting javascript data
+- [scrapy](https://scrapy.org/) - OOP framework
+- [newspaper3k](https://newspaper.readthedocs.io) - easily extract text from articles
+- [requests-html](https://github.com/kennethreitz/requests-html)
 
 ### Utilities
-https://github.com/tldr-pages/tldr-python-client # replacement for man pages
-bropages (http://bropages.org/): sudo apt-get install ruby-dev, sudo gem install bropages
-https://github.com/gleitz/howdoi
-inspect https://docs.python.org/3/library/inspect.html
-prettypandas
-https://github.com/seatgeek/fuzzywuzzy
-https://github.com/RobinL/fuzzymatcher
-pytest
-requests
-requests-html: https://github.com/kennethreitz/requests-html
-psutil
-
-### Amazon Web Services
-PyAthena - use plain 'ol SQL: https://github.com/laughingman7743/PyAthena
+- [tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - replacement for man pages
+- bropages](http://bropages.org/) - 
+```sudo apt-get install ruby-dev, sudo gem install bropages```
+- [howdoi](https://github.com/gleitz/howdoi)
+- [inspect](https://docs.python.org/3/library/inspect.html)
+- [prettypandas](https://prettypandas.readthedocs.io/en/latest/)
+- [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy)
+- [fuzzymatcher](https://github.com/RobinL/fuzzymatcher)
+- [pytest](https://docs.pytest.org/en/latest/)
+- [requests](http://docs.python-requests.org/en/master/)
+- [psutil](https://github.com/giampaolo/psutil)
 
 ### CLI
-click - for making CLI
-fire - for making CLI
-https://github.com/tmbo/questionary
+- [click](https://click.palletsprojects.com/en/7.x/) - for making CLI
+- [fire](https://github.com/google/python-fire) - for making CLI
+- [questionary](https://github.com/tmbo/questionary)
 
 ### Progress Bars
-tqdm: https://github.com/tqdm/tqdm
-fastprogress: https://github.com/fastai/fastprogress
+- [tqdm](https://github.com/tqdm/tqdm)
+- [fastprogress](https://github.com/fastai/fastprogress)
 
 ### Misc.
-Sending Windows 10 notifications: https://github.com/jithurjacob/Windows-10-Toast-Notifications
-Another Windows notification library: https://github.com/malja/zroya
-glances: CPU/memory monitoring
-pendulum: a better datetime library, better than arrow
-visidata: https://jsvine.github.io/intro-to-visidata/index.html
-schedule: job scheduling for humans:https://github.com/dbader/schedule
-pyautogui
-ptpython: better REPL
-xlwings: Excel VBA, but with Python instead
-openpyxl: https://openpyxl.readthedocs.io/en/stable/
-https://github.com/SimonBiggs/scriptedforms
-black: source code formatter
+- [glances](https://nicolargo.github.io/glances/) - CPU/memory monitoring
+- [pendulum](https://pendulum.eustace.io/) - a better datetime library, better than arrow
+- [visidata](https://jsvine.github.io/intro-to-visidata/index.html) - free, open-source tool that lets you quickly open, explore, summarize, and analyze datasets in your computer’s terminal
+- [schedule](https://github.com/dbader/schedule) - job scheduling for humans
+- [pyautogui](https://pyautogui.readthedocs.io/en/latest/)
+- [ptpython](https://github.com/prompt-toolkit/ptpython) - better REPL
+- [xlwings](https://www.xlwings.org/) - Excel VBA, but with Python instead
+- [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
+- [scriptedforms](https://github.com/SimonBiggs/scriptedforms)
+- [black](https://github.com/ambv/black) - source code formatter
 
 ### debugging
-ipdb
-pudb: https://github.com/inducer/pudb - Windows not supported, need cygwin
+- [ipdb](https://github.com/gotcha/ipdb)
+- [pudb](https://github.com/inducer/pudb) - Windows not supported, need cygwin
 
 ### logging
-https://github.com/Delgan/loguru
+- [loguru](https://github.com/Delgan/loguru)
