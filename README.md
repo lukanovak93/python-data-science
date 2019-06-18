@@ -12,7 +12,7 @@ List of useful Python packages for data science:
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)
 - [memory_profiler](https://github.com/pythonprofilers/memory_profiler)
 - [py-spy](https://github.com/benfred/py-spy/blob/master/README.md)
-- [pyflame](https://github.com/uber/pyflame)   # Does not support Windows
+- [pyflame](https://github.com/uber/pyflame) ❗ (Does not support Windows)
 
 ### Forecasting
 - [pyramid-arima](https://github.com/tgsmith61591/pyramid)
