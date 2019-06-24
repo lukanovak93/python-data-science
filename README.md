@@ -99,6 +99,7 @@ List of useful Python packages for data science:
 
 ### Deep learning
 - [Netron](https://github.com/lutzroeder/Netron) - visualize NNs
+- [BlingFire](https://github.com/Microsoft/BlingFire)  -Microsoft Bing team, a tokenizer designed for fast-speed and quality tokenization of Natural Language text
 
 ### Webscraping
 - [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
