@@ -30,6 +30,7 @@ List of useful Python packages for data science:
 - [vaex](https://github.com/maartenbreddels/vaex)
 - [modin](https://github.com/modin-project/modin) - pandas on [Ray](https://ray-project.github.io/) execution framework
 - [dampr](https://github.com/Refefer/Dampr)
+- [datatable](https://github.com/h2oai/datatable) - pandas equivalent for performing big data (up to 100GB) operations on a single-node machine, at the maximum speed possible
 
 ### visualization libraries
 - [PyViz](http://pyviz.org/) stack
