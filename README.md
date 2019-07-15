@@ -33,7 +33,8 @@ List of useful Python packages for data science:
 - [datatable](https://github.com/h2oai/datatable) - pandas equivalent for performing big data (up to 100GB) operations on a single-node machine, at the maximum speed possible
 
 ### visualization libraries
-- [PyViz](http://pyviz.org/) stack
+- [PyViz](http://pyviz.org/) stack (part of PyData stack)
+- [Panel](https://panel.pyviz.org/) - dashboarding from PyData Stack
 - [Plotly](https://plot.ly/python/)
 - [Dash](https://github.com/plotly/dash) - dashboard library from plotly
 - [matplotlib](https://matplotlib.org/)
