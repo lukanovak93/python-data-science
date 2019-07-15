@@ -151,3 +151,4 @@ List of useful Python packages for data science:
 
 ### logging
 - [loguru](https://github.com/Delgan/loguru)
+- [PySnooper](https://github.com/cool-RR/pysnooper)
